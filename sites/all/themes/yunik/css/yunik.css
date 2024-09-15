@@ -3899,7 +3899,7 @@ textarea {
 	-ms-filter: grayscale(100%);
 	-o-filter: grayscale(100%);
 	filter: grayscale(100%);
-	filter: url(../images/grayscale.svg#greyscale);
+	filter: url(/sites/all/themes/yunik/images/grayscale.svg#greyscale);
 	filter: gray;
 	-webkit-transition: all 0.2s linear;
 	-moz-transition: all 0.2s linear;
